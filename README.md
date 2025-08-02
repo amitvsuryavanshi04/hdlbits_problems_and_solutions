@@ -1,20 +1,24 @@
-# HDL Bits Problem Solutions 🧠💡
+# 🧠 HDLBits Problem Solutions
 
-This repository contains my personal solutions to selected problems from [Click here to view my HDL Bits profile](https://bit.ly/amit_hdl_bits) — a widely-used platform for learning and practicing Verilog through hands-on problem solving. It's often referred to as the *LeetCode of Digital Electronics*.
-
-Currently, I'm focusing on the following sections:
-
-- `01_getting_started/`
-- `02_verilog_language/01_basics`
-- `02_verilog_language/02_vectors`
+This repository contains my personal solutions to selected problems from [HDLBits](https://bit.ly/amit_hdl_bits) — a popular platform for learning and practicing Verilog HDL through interactive problem solving. HDLBits is often regarded as the *LeetCode of Digital Electronics*, making it a valuable resource for both students and professionals aiming to strengthen their digital design skills.
 
 ---
 
-## 📁 Folder Structure with Links
+## ✅ Completed Sections
 
-### `01_getting_started/`
-- [code01.v](https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb/blob/main/FutureWiz_Daily_Verilog_Codes/hdl_problem_solutions/01_getting_started/code_01.v)
+- `01_getting_started/`
+- `02_verilog_language/`
+- `04_reading_simulations/`
 
-### `02_verilog_language/01_basics/`
-- [01_simple_wire.v](https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb/blob/main/FutureWiz_Daily_Verilog_Codes/hdl_problem_solutions/02_verilog_language/01_basics/01_simple_wire.v)
-- [02_four_wires.v](https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb/blob/main/FutureWiz_Daily_Verilog_Codes/hdl_problem_solutions/02_verilog_language/01_basics/02_four_wires.v)
+---
+
+## 📁 Repository Structure
+- `hdlbits_problems_and_solutions/ `
+ `├── 01_getting_started/ `
+`├── 02_verilog_language/`
+│ `├── 01_basics/ `
+│ `├── 02_vectors/`
+│ `├── 03_modules/`
+│ `├── 04_procedures/`
+│ `├── 05_more_verilog_features/`
+`├── 04_reading_simulations/ `
