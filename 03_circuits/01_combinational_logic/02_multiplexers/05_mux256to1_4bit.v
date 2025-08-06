@@ -13,12 +13,8 @@ module top_module(
     output [3:0] out );
 
     //way - 01
-    always @(*) begin
-        case (sel)
-            : 
-            default: 
-        endcase
-    end
+   
+    assign out = in[4*sel + 3 -: 4];
     
     // //---------------------------------------------//
     // //way - 02 
