@@ -1,4 +1,4 @@
-t //Waveform attached as '01_combinational_waveform01.'
+//Waveform attached as '01_combinational_waveform01.'
 
 module top_module(
     input [31:0] a,
