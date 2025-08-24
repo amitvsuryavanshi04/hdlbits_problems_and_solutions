@@ -4,21 +4,9 @@ This repository contains my personal solutions to selected problems from [HDLBit
 
 ---
 
-## ✅ Completed Sections
+## ✅ Status of sections
 
-- `01_getting_started/`
-- `02_verilog_language/`
-- `04_reading_simulations/`
-
----
-
-## 📁 Repository Structure
-- `hdlbits_problems_and_solutions/ `
- `├── 01_getting_started/ `
-`├── 02_verilog_language/`
-│ `├── 01_basics/ `
-│ `├── 02_vectors/`
-│ `├── 03_modules/`
-│ `├── 04_procedures/`
-│ `├── 05_more_verilog_features/`
-`├── 04_reading_simulations/ `
+- `01_getting_started/ (Completed)`
+- `02_verilog_language/ (Completed)`
+- `03_circuits/ (ongoing)`
+- `04_reading_simulations/ (ongoing)`
